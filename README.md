@@ -1,6 +1,6 @@
 # RLscan
 
-该项目仅用于概念验证。
+该项目仅用于概念验证。共同作者：@Lya0
 
 [English](README_EN.md)
 
